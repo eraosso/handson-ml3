@@ -1,9 +1,11 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+noteId: "5477ae32aaa511ef8f85cdcd7fa2a98d"
+tags: []
+name: "Bug report"
+about: "Create a report to help us improve"
 title: "[BUG]"
-labels: ''
-assignees: ''
+labels: ""
+assignees: ""
 
 ---
 

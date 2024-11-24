@@ -1,3 +1,9 @@
+---
+noteId: "54778722aaa511ef8f85cdcd7fa2a98d"
+tags: []
+
+---
+
 # Changes in the third edition
 
 Below are the changes in the book between the second (2019) and the third edition (2022). For the changes between the first (2017) and the second edition (2019), please check out [this other page](https://homl.info/changes2).

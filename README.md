@@ -1,3 +1,9 @@
+---
+noteId: "5477ae33aaa511ef8f85cdcd7fa2a98d"
+tags: []
+
+---
+
 Machine Learning Notebooks, 3rd edition
 =================================
 

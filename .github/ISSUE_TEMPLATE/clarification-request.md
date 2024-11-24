@@ -1,9 +1,11 @@
 ---
-name: Clarification request
-about: Not a bug, but something is not clear
+noteId: "54773900aaa511ef8f85cdcd7fa2a98d"
+tags: []
+name: "Clarification request"
+about: "Not a bug, but something is not clear"
 title: "[QUESTION]"
-labels: ''
-assignees: ''
+labels: ""
+assignees: ""
 
 ---
 
